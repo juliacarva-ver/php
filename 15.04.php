@@ -29,6 +29,7 @@
 // -> acessa algo dentro do objeto(método)
 // format() -> é um método da classe DateTime
 // */
+
 // $data1 = new DateTime("2026-04-01");
 
 // $data2 = new DateTime("2026-04-15");
@@ -84,3 +85,21 @@
 // //implode() -> juntar array em srting
 // $array = ["PHP", "HTML","CSS"];
 // echo implode("-", $array);
+
+
+
+// $nome = " julia carvalho";
+
+// echo "Original: $nome <br>";
+
+// $nome = trim($nome);
+// echo "Sem espacos: $nome <br>";
+
+// $nome = ucwords($nome);
+// echo "Formatado: $nome <br>";
+
+// echo "Total de letras: " . strlen($nome);
+
+
+
+
